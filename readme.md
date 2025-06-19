@@ -6,7 +6,7 @@ A fully functional e-commerce web application built with Django and Tailwind CSS
 
 ## 🚀 Live Demo
 
-👉 [Visit the App]([https://your-app-name.up.railway.app](https://django-project-production-896c.up.railway.app/)
+👉 [Visit the App](https://django-project-production-896c.up.railway.app/)
 
 ---
 
